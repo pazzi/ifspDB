@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ifspDB</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="NomeVinil">Nome do Vinil</string>
+    <string name="Gravadora">Gravadora</string>
+    <string name="AnoVinil">Ano</string>
+    <string name="hintNome">Digite o nome do vinil</string>
+    <string name="hintNomeGravadora">Digite no nome da gravadora</string>
+    <string name="hintAno">Digite o ano da produção do vinil</string>
+    <string name="btnAlterar">Alterar</string>
+    <string name="rdb_cad_Rock">Rock</string>
+    <string name="rbb_cad_MBP">MPB</string>
+    <string name="cad_rdb_Instr">Instrumental</string>
+    <string name="cad_rdb_Class">Clássicas</string>
+</resources>
